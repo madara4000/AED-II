@@ -48,7 +48,7 @@ grafo.adicionar_aresta(0, 2, 5)
 grafo.adicionar_aresta(1, 3, 3)
 grafo.adicionar_aresta(2, 3, 1)
 grafo.adicionar_aresta(2, 4, 4)
-grafo.adicionar_aresta(2, 6, 5)
+grafo.adicionar_aresta(3, 2, 6)
 
 # Mostrar os dados armazenados
 grafo.mostrar_grafo()
